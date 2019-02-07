@@ -253,3 +253,12 @@ footer {
     color:#444;
   }
 }
+
+.project-images {
+  position: relative;
+}
+
+.images {
+  position: relative;
+  width: 50%;
+}
